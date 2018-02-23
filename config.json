@@ -1,0 +1,15 @@
+{
+    "title": "asdf asdfdsf",
+    "baseURL": "https:\/\/asdf.asdf.asdf",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1759135",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "asdf.asdf"
+    }
+}
